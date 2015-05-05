@@ -1,0 +1,20 @@
+div {
+	/*border: solid 1px #000;*/
+    padding: 0;
+    margin-left: -100px;
+    margin-top: -41px;
+	top: 50vh;
+	left: 50vw;
+	width: 200px;
+    position: absolute;
+	text-align: center;
+	overflow: auto;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+body {
+	background-color: #252527;
+	color: #336699;
+	font-family: verdana;
+}
